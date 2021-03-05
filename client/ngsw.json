@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "timestamp": 1614930315096,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.9eaa0649c11143648090.js",
+        "/manifest.webmanifest",
+        "/polyfills.8c151b8375e767ff858f.js",
+        "/runtime.0e49e2b53282f40c8925.js",
+        "/scripts.0fea7f8ae23e02845440.js",
+        "/styles.53e67c7cd3d96b2abf2d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/circle-cropped (1).png",
+        "/assets/img/spottt.jpg",
+        "/assets/styles.css",
+        "/assets/usuario.png.crdownload",
+        "/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+        "/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+        "/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+        "/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+        "/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "bade265cd3c3d88bdc3f8c6b012e23c7b365db4e",
+    "/assets/icons/icon-144x144.png": "e4886dfe4f82de5480a14c3ce91874ceefce3898",
+    "/assets/icons/icon-152x152.png": "3d92d652aeb7e562f715e509d7e0ae949fcfe9e1",
+    "/assets/icons/icon-192x192.png": "19f5932f14930c7389b18c6fbf378adef8f3e1c8",
+    "/assets/icons/icon-384x384.png": "bba50d7f68ba71ec6efe019ac7ad4bcf5f892fff",
+    "/assets/icons/icon-512x512.png": "cba20280f39c8f3e90600a2c07a4883dbfe36428",
+    "/assets/icons/icon-72x72.png": "f565ed4d47d72ace737c56d7a8f4478390ff5f54",
+    "/assets/icons/icon-96x96.png": "5cbfc1507b01536c85c4e75654376cd1d9915660",
+    "/assets/img/circle-cropped (1).png": "e363f9cddcb9c9ee3eb1fa1ec7a428ccec7cce9a",
+    "/assets/img/spottt.jpg": "3bc4a430a9d507581df5e7ea0d26a2d8364a5bd9",
+    "/assets/styles.css": "bdd986a297966b1e6ef4c453a59236747a083ccc",
+    "/assets/usuario.png.crdownload": "cfdf49a51d8bf457e09501563f38b006d2ae85ce",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
+    "/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
+    "/glyphicons-halflings-regular.5be1347c682810f199c7.eot": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3",
+    "/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
+    "/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
+    "/index.html": "cf16ffe4b376e62efe0f370b54c5decdadff3dd9",
+    "/main.9eaa0649c11143648090.js": "0979b0799f1443c47ab7a4a69a29181bf48e0768",
+    "/manifest.webmanifest": "a7e8765428768cb79e50a16de043c1050339ca3c",
+    "/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.0fea7f8ae23e02845440.js": "5664eccbb4a474d21f5ca8cc16bfd7a12aa3b615",
+    "/styles.53e67c7cd3d96b2abf2d.css": "57798109f776ecf87037aef9c604d2e4538b850f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
